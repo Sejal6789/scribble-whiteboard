@@ -10,7 +10,8 @@
 
 - Collaborative drawing area where all the connected users can draw.
 - Realtime chat between connected users
-- All the connected users are visible in room.## Implementation
+- All the connected users are visible in room.
+
 
 
 
