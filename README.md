@@ -1,4 +1,4 @@
-**Implementation**
+# Implementation
 Implemented from scratch in Vanilla Js
 Server side scripting done in Express and Node Js
 Seamless communication established using Socket.io library
